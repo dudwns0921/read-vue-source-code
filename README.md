@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [Find the Entry](https://github.com/numbbbbb/read-vue-source-code/blob/master/01-find-the-entry.md)
+- [Find the Entry](./01-find-the-entry.md)
 - [Dig into the Core](https://github.com/numbbbbb/read-vue-source-code/blob/master/02-dig-into-the-core.md)
 - [Initialization](https://github.com/numbbbbb/read-vue-source-code/blob/master/03-init-introduction.md)
 - [Dynamic Data - Observer, Dep and Watcher](https://github.com/numbbbbb/read-vue-source-code/blob/master/04-dynamic-data-observer-dep-and-watcher.md)
